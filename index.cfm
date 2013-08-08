@@ -9,6 +9,7 @@
 <ul>
 	<li>pageInsertHTML</li>
 	<li>pageReplaceHTML</li>
+  <li>pageReplaceHTMLAttr</li>
 	<li>pageRemove</li>
 	<li>pageShow</li>
 	<li>pageHide</li>
