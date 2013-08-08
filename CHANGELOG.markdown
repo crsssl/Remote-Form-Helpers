@@ -1,4 +1,7 @@
 # CHANGE LOG
+- This extension:
+	- Added `pageReplaceHTMLAttr` function
+
 - Version 0.9:
 	- Drops support for anything below 1.1
 	- Removes obstructive JavaScript from the output.
