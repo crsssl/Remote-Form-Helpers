@@ -1,5 +1,5 @@
 # CHANGE LOG
-- This extension:
+- This fork:
 	- Added `pageReplaceHTMLAttr` function
 
 - Version 0.9:
